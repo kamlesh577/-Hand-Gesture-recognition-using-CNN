@@ -1,1 +1,1 @@
-# -Hand-Gesture-recognition-using-CNN
+# Hand-Gesture-recognition-using-CNN
